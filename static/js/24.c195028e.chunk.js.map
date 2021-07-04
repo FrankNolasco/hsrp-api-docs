@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Home/index.tsx"],"names":["Home"],"mappings":"2JAQeA,UARF,WACT,OACI","file":"static/js/24.c195028e.chunk.js","sourcesContent":["const Home = () => {\r\n    return (\r\n        <div>\r\n            \r\n        </div>\r\n    )\r\n}\r\n\r\nexport default Home\r\n"],"sourceRoot":""}
